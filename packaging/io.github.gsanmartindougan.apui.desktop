@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Apui
+Exec=apui
+Icon=apui
+Categories=Development;
+Terminal=false
+Comment=REST and WebSocket API client
